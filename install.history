@@ -1,0 +1,5 @@
+    2  sudo apt-get install -y git-core 
+   10  wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+   68  npm install cheerio
+   69  npm install commander
+   93  npm install restler
